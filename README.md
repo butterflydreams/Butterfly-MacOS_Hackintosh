@@ -1,2 +1,4 @@
 # Butterfly-MacOS_Hackintosh
-Hackintosh for macOS.
+My own hackintosh efis.
+
+- ### Gigabyte Z490M GAMING X
